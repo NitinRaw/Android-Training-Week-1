@@ -1,6 +1,4 @@
-class ArraysStringPractice {
 
-}
 
 fun main(){
     val arr = Array(10, {i -> i + 1})

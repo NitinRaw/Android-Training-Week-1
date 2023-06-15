@@ -1,8 +1,6 @@
 import java.lang.Exception
 import java.lang.IllegalArgumentException
 
-class ExceptionPrac {
-}
 
 fun main(){
 
@@ -25,3 +23,5 @@ fun main(){
     }
 
 }
+
+
